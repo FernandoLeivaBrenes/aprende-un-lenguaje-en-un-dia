@@ -38,7 +38,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-### [**LOLCODE**](https://es.wikipedia.org/wiki/LOLCODE ""Wikipedia/LOLCODE"")<img src="LOLCode_logo.png">
+### [**LOLCODE**](https://es.wikipedia.org/wiki/LOLCODE "Wikipedia/LOLCODE")<img src="LOLCode_logo.png" style="width: 50% ; height: 50%; float: right;">
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
