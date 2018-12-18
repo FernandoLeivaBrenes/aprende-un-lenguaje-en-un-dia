@@ -28,9 +28,9 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* Alan Brito
-* Elba Lazo
-* Esteban Quito
+* [Fernando Leiva Brenes](https://github.com/FernandoLeivaBrenes))
+* [Julian Pérez Ortiz](https://github.com/JulianPerezOrtiz))
+* [Miguel Solís La Beira](https://github.com/MiguelSolisLaBeira)
 
 ## Lenguaje de programación
 
@@ -38,7 +38,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+### * [LOLCODE](https://es.wikipedia.org/wiki/LOLCODE)
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
@@ -46,10 +46,13 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
+@MiguelSolis_>>
+
 ## Herramientas de desarrollo
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
+@JulianPerez
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
