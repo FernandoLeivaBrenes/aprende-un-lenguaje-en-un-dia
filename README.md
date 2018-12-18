@@ -44,13 +44,22 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+LOLCODE es un lenguaje de programación esotérico inspirado en el fenómeno de Internet de los Lolcat. Fue creado el 2007 por Adam Lindsay, investigador del Departamento de Computación de la Universidad de Lancaster.
+
+Un lolcat es la combinación de la fotografía de un gato con un texto humorístico y en inglés macarrónico sobre la idiosincrasia del gato.
+
+Las palabras clave del lenguaje LOLCODE son abreviaturas bien comprimidas del lenguaje utilizado por las imágenes de los Lolcat.
+
+En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy restringido, lo que los hace especialmente peculiares en su implementación. En su creación muchas veces ha primado la diversión por parte de los desarrolladores, sobre la utilidad. 
 
 @MiguelSolis_>>
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Podemos programar en Lolcode online en la web www.repl.it.
+También disponemos de un plugin para el Visual Studio Code en su propio marketplace.
+O también en la web https://packagecontrol.io/packages/LOLCODE podemos descargar el plugin para SublimeText.
+
 
 @JulianPerez
 ## Poniendo en práctica el lenguaje
