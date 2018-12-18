@@ -39,7 +39,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 Escribe el lenguaje de programación elegido por el grupo.
 
 ### [**LOLCODE**](https://es.wikipedia.org/wiki/LOLCODE "Wikipedia/LOLCODE"):
-<img src="LOLCode_logo.png" width="150" >
+[<img src="imagenes/LOLCode_logo.png" width="150" >](https://es.wikipedia.org/wiki/LOLCODE "Wikipedia/LOLCODE")
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
@@ -58,6 +58,7 @@ En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy 
 Podemos programar en Lolcode online en la web [**www.repl.it.**](https://repl.it/ "https://repl.it/")
 
 También disponemos de un plugin para el Visual Studio Code en su propio marketplace.
+[<img src="imagenes/lolcodevs.png">]("Extension/LOLCODE")
 
 O también en esta web: [*https://packagecontrol.io/packages/LOLCODE*](https://packagecontrol.io/packages/LOLCODE "packages/LOLCODE") podemos descargar el plugin para **SublimeText**.
 
@@ -70,6 +71,13 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ### 1. ¡Hola mundo!
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+
+```
+HAI 1.2
+  BTW Programa HolaMundo
+  VISIBLE Hola Mundo
+KTHXBYE
+```
 
 ### 2. Pirámide
 
