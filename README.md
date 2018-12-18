@@ -38,7 +38,8 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-### [**LOLCODE**](https://es.wikipedia.org/wiki/LOLCODE "Wikipedia/LOLCODE")<img src="LOLCode_logo.png" style="width: 50% ; height: 50%; float: right;">
+### [**LOLCODE**](https://es.wikipedia.org/wiki/LOLCODE "Wikipedia/LOLCODE"):
+<img src="LOLCode_logo.png" width="150" >
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
@@ -55,8 +56,12 @@ En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy 
 ## Herramientas de desarrollo
 
 Podemos programar en Lolcode online en la web [**www.repl.it.**](https://repl.it/ "https://repl.it/")
+
 También disponemos de un plugin para el Visual Studio Code en su propio marketplace.
+
 O también en esta web: [*https://packagecontrol.io/packages/LOLCODE*](https://packagecontrol.io/packages/LOLCODE "packages/LOLCODE") podemos descargar el plugin para **SublimeText**.
+
+Documentación genérica en [**TUTORIALSPOINT**](https://www.tutorialspoint.com/lolcode/index.htm "TutorialsPoint - LOLCODE")
 
 ## Poniendo en práctica el lenguaje
 
@@ -85,4 +90,3 @@ Cada equipo explicará al resto de la clase lo aprendido durante la realización
 * Los miembros del equipo más votado ganarán un premio.
 
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
-
