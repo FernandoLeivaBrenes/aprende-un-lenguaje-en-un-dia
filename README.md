@@ -51,6 +51,14 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 Las palabras clave del lenguaje LOLCODE son abreviaturas bien comprimidas del lenguaje utilizado por las imágenes de los Lolcat.
 
+##### Por ejemplo :
+
+|**Sintaxis**|**Representación**|**Relación en nuestra lengua**|
+|:-----------:|:----------:|:---------:|
+|OMGWTF|<img src="imagenes/omgwtf.jpg" width="30%">|AÑADIR|
+|O RLY|<img src="imagenes/orly.jpg" width="30%">|AÑADIR|
+|CANHAS|<img src="imagenes/icanhas.jpg" width="30%">|AÑADIR|
+
 En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy restringido, lo que los hace especialmente peculiares en su implementación. En su creación muchas veces ha primado la diversión por parte de los desarrolladores, sobre la utilidad.
 
 ## Herramientas de desarrollo
