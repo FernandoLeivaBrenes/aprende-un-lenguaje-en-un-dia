@@ -58,7 +58,7 @@ En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy 
 Podemos programar en Lolcode online en la web [**www.repl.it.**](https://repl.it/ "https://repl.it/")
 
 También disponemos de un plugin para el Visual Studio Code en su propio marketplace.
-[<img src="imagenes/lolcodevs.png">]("Extension/LOLCODE")
+[<img src="imagenes/lolcodevs.png">](https://marketplace.visualstudio.com/items?itemName=arwinneil.lolcode "Extension/LOLCODE")
 
 O también en esta web: [*https://packagecontrol.io/packages/LOLCODE*](https://packagecontrol.io/packages/LOLCODE "packages/LOLCODE") podemos descargar el plugin para **SublimeText**.
 
@@ -72,7 +72,7 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
-```
+```lolcode
 HAI 1.2
   BTW Programa HolaMundo
   VISIBLE Hola Mundo
