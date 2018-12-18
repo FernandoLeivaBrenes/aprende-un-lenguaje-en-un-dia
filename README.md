@@ -28,9 +28,9 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* [Fernando Leiva Brenes](https://github.com/FernandoLeivaBrenes)
-* [Julian Pérez Ortiz](https://github.com/JulianPerezOrtiz)
-* [Miguel Solís La Beira](https://github.com/MiguelSolisLaBeira)
+* [Fernando Leiva Brenes](https://github.com/FernandoLeivaBrenes "Perfil de GitHub de Fernando Leiva Brenes")
+* [Julian Pérez Ortiz](https://github.com/JulianPerezOrtiz "Perfil de GitHub de Julian Pérez Ortiz")
+* [Miguel Solís La Beira](https://github.com/MiguelSolisLaBeira "Perfil de GitHub de Miguel Solis La Beira")
 
 ## Lenguaje de programación
 
@@ -38,31 +38,26 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-### * [LOLCODE](https://es.wikipedia.org/wiki/LOLCODE)
+### [**LOLCODE**](https://es.wikipedia.org/wiki/LOLCODE ""Wikipedia/LOLCODE"")<img src="LOLCode_logo.png">
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
 
-LOLCODE es un lenguaje de programación esotérico inspirado en el fenómeno de Internet de los Lolcat. Fue creado el 2007 por Adam Lindsay, investigador del Departamento de Computación de la Universidad de Lancaster.
+[**LOLCODE**](https://es.wikipedia.org/wiki/LOLCODE "Wikipedia/LOLCODE") es un lenguaje de programación esotérico inspirado en el fenómeno de Internet de los Lolcat. Fue creado el 2007 por Adam Lindsay, investigador del Departamento de Computación de la Universidad de Lancaster.
 
-Un lolcat es la combinación de la fotografía de un gato con un texto humorístico y en inglés macarrónico sobre la idiosincrasia del gato.
+> Un lolcat es la combinación de la fotografía de un gato con un texto humorístico y en inglés macarrónico sobre la idiosincrasia del gato.
 
 Las palabras clave del lenguaje LOLCODE son abreviaturas bien comprimidas del lenguaje utilizado por las imágenes de los Lolcat.
 
 En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy restringido, lo que los hace especialmente peculiares en su implementación. En su creación muchas veces ha primado la diversión por parte de los desarrolladores, sobre la utilidad.
 
-
-@MiguelSolis_>>
-
 ## Herramientas de desarrollo
 
-Podemos programar en Lolcode online en la web www.repl.it.
+Podemos programar en Lolcode online en la web [**www.repl.it.**](https://repl.it/ "https://repl.it/")
 También disponemos de un plugin para el Visual Studio Code en su propio marketplace.
-O también en la web https://packagecontrol.io/packages/LOLCODE podemos descargar el plugin para SublimeText.
+O también en esta web: [*https://packagecontrol.io/packages/LOLCODE*](https://packagecontrol.io/packages/LOLCODE "packages/LOLCODE") podemos descargar el plugin para **SublimeText**.
 
-
-@JulianPerez
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
