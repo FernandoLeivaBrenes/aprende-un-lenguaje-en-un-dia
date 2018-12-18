@@ -50,7 +50,8 @@ Un lolcat es la combinación de la fotografía de un gato con un texto humoríst
 
 Las palabras clave del lenguaje LOLCODE son abreviaturas bien comprimidas del lenguaje utilizado por las imágenes de los Lolcat.
 
-En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy restringido, lo que los hace especialmente peculiares en su implementación. En su creación muchas veces ha primado la diversión por parte de los desarrolladores, sobre la utilidad. 
+En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy restringido, lo que los hace especialmente peculiares en su implementación. En su creación muchas veces ha primado la diversión por parte de los desarrolladores, sobre la utilidad.
+
 
 @MiguelSolis_>>
 
