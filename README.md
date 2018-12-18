@@ -28,8 +28,8 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* [Fernando Leiva Brenes](https://github.com/FernandoLeivaBrenes))
-* [Julian Pérez Ortiz](https://github.com/JulianPerezOrtiz))
+* [Fernando Leiva Brenes](https://github.com/FernandoLeivaBrenes)
+* [Julian Pérez Ortiz](https://github.com/JulianPerezOrtiz)
 * [Miguel Solís La Beira](https://github.com/MiguelSolisLaBeira)
 
 ## Lenguaje de programación
