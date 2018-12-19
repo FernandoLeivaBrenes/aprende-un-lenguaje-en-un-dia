@@ -138,6 +138,33 @@ KTHXBYE
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 
+```LOLCODE
+HAI 1.4
+CAN HAZ STDLIB?
+   OBTW
+      CREATES A ONE DIMENSIONAL ARRAY WITH N ELEMENTS, EACH IS A 0
+   TLDR
+	HOW IZ I MAKEMATRIX YR N
+      I HAS A MATRIX ITZ A BUKKIT
+      IM IN YR LOOP UPPIN YR INDEX TIL BOTH SAEM INDEX N
+      
+    I HAS A MATRIX ITZ A NUMBR BLOW 99 SUM OF MATRIX AN 1
+      IM OUTTA YR LOOP
+  
+      FOUND YR MATRIX
+   IF U SAY SO
+
+      I HAS A N ITZ 20
+      I HAS A MATRIX ITZ A BUKKIT
+      MATRIX R I IZ MAKEMATRIX YR N MKAY
+
+	   BTW PRINTS THE CONTENTS OF THE ARRAY
+      IM IN YR LOOP UPPIN YR INDEX TIL BOTH SAEM INDEX N
+         VISIBLE MATRIX'Z SRS INDEX
+   IM OUTTA YR LOOP
+KTHXBYE
+```
+
 ## Presentación de resultados
 
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
