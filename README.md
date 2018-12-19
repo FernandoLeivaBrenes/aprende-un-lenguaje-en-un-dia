@@ -93,6 +93,47 @@ KTHXBYE
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
+```lolcode
+HAI 1.2
+BTW Programa Hola Mundo 
+I HAS A ALTURA ITZ 0
+ALTURA IS NOW A NUMBR
+VISIBLE "Introduce la altura de la piramide"
+GIMMEH ALTURA
+
+I HAS A PINTADA ITZ 0
+PINTADA R ALTURA
+I HAS A ESPACIO ITZ "" 
+ESPACIO IS NOW A YARN
+I HAS A PASADA ITZ 1
+I HAS A MITAD ITZ 0
+MITAD R ALTURA
+
+I HAS A RELLENO ITZ "*"
+RELLENO IS NOW A YARN
+
+I HAS A PIRAMIDE ITZ 0
+IM IN YR LOOP NERFIN YR PINTADA WILE DIFFRINT  PINTADA AN 0
+
+IM IN YR LOOP NERFIN YR MITAD TIL BOTH SAEM MITAD AN 0
+VISIBLE SMOOSH ESPACIO AN " " MKAY!
+IM OUTTA YR LOOP
+
+IM IN YR LOOP UPPIN YR PIRAMIDE TIL BOTH SAEM PIRAMIDE AN PASADA 
+VISIBLE SMOOSH RELLENO AN " " MKAY!
+IM OUTTA YR LOOP
+
+VISIBLE 
+PIRAMIDE R 0
+MITAD R ALTURA
+MITAD R DIFF OF MITAD AN PASADA
+PASADA R SUM OF PASADA AN 1
+
+IM OUTTA YR LOOP
+
+KTHXBYE
+```
+
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
