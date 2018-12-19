@@ -55,11 +55,12 @@ Las palabras clave del lenguaje LOLCODE son abreviaturas bien comprimidas del le
 
 |**Sintaxis**|**Representación**|**Relación en nuestra lengua**|
 |:-----------:|:----------:|:---------:|
-|OMGWTF|<img src="imagenes/omgwtf.jpg" width="30%">|AÑADIR|
-|O RLY|<img src="imagenes/orly.jpeg" width="30%">|AÑADIR|
-|CANHAS|<img src="imagenes/icanhas.jpg" width="30%">|AÑADIR|
+|OMGWTF|<img src="imagenes/omgwtf.jpg" width="30%">|Podemos entenderlo como el *default* dentro del *switch*|
+|O RLY|<img src="imagenes/orly.jpeg" width="30%">|Por otro lado esta sería la definición del *If*|
+|CANHAS|<img src="imagenes/icanhas.jpg" width="30%">|El codigo *CAS HAS ?* se entiende como la importación de una librería, en la versión 1.4 sería posible con las siguientes : **STDIO, STRING, SOCKS y STDLIB.**|
 
 En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy restringido, lo que los hace especialmente peculiares en su implementación. En su creación muchas veces ha primado la diversión por parte de los desarrolladores, sobre la utilidad.
+El interprete de este lenguaje está desarrollaod en C y es conocido como Ici.
 
 ## Herramientas de desarrollo
 
@@ -71,6 +72,7 @@ También disponemos de un plugin para el Visual Studio Code en su propio marketp
 O también en esta web: [*https://packagecontrol.io/packages/LOLCODE*](https://packagecontrol.io/packages/LOLCODE "packages/LOLCODE") podemos descargar el plugin para **SublimeText**.
 
 Documentación genérica en [**TUTORIALSPOINT**](https://www.tutorialspoint.com/lolcode/index.htm "TutorialsPoint - LOLCODE")
+Dentro de esta página tambien ppodemos encontrar un IDE online.
 
 ## Poniendo en práctica el lenguaje
 
