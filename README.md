@@ -57,7 +57,7 @@ Las palabras clave del lenguaje LOLCODE son abreviaturas bien comprimidas del le
 |:-----------:|:----------:|:---------:|
 |OMGWTF|<img src="imagenes/omgwtf.jpg" width="30%">|Podemos entenderlo como el *default* dentro del *switch*|
 |O RLY|<img src="imagenes/orly.jpeg" width="30%">|Por otro lado esta sería la definición del *If*|
-|CANHAS|<img src="imagenes/icanhas.jpg" width="30%">|El codigo *CAS HAS ?* se entiende como la importación de una librería, en la versión 1.4 sería posible con las siguientes : **STDIO, STRING, SOCKS y STDLIB.**|
+|CANHAS|<img src="imagenes/icanhas.jpg" width="30%">|El codigo *CAN HAS ?* se entiende como la importación de una librería, en la versión 1.4 sería posible con las siguientes : **STDIO, STRING, SOCKS y STDLIB.**|
 
 En general estos lenguajes poseen una sintaxis muy básica, con un alfabeto muy restringido, lo que los hace especialmente peculiares en su implementación. En su creación muchas veces ha primado la diversión por parte de los desarrolladores, sobre la utilidad.
 El interprete de este lenguaje está desarrollaod en C y es conocido como Ici.
