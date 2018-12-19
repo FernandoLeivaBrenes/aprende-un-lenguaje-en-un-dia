@@ -53,7 +53,7 @@ Las palabras clave del lenguaje LOLCODE son abreviaturas bien comprimidas del le
 
 ##### Por ejemplo :
 
-|**Sintaxis**|**Representación**|**Relación en nuestra lengua**|
+|**Sintaxis**|**Representación**|**Relación con Java**|
 |:-----------:|:----------:|:---------:|
 |OMGWTF|<img src="imagenes/omgwtf.jpg" width="30%">|Podemos entenderlo como el *default* dentro del *switch*|
 |O RLY|<img src="imagenes/orly.jpeg" width="30%">|Por otro lado esta sería la definición del *If*|
